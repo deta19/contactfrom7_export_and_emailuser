@@ -1,0 +1,6 @@
+{
+    "name": "vagrant/sendmemmails",
+    "require": {
+        "phpoffice/phpspreadsheet": "^1.29"
+    }
+}
